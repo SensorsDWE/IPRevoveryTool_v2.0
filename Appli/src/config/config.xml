@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Edited by Schneider Electric (c) -->
+<appcfg>
+    <!-- Tool will list devices with the MAC address prefix below (multiple entries allowed) 
+         Exemple:  <macfilter>00:C0:B7</macfilter> -->
+    <macfilter>00:C0:B7</macfilter>
+	<macfilter>28:29:86</macfilter>
+</appcfg>

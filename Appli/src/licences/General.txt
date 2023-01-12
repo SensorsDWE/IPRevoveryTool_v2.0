@@ -1,0 +1,11 @@
+IP Recovery Tool 
+
+Version 2.3
+
+Copyright 2014 Schneider Electric. All rights reserved. 
+
+Built using Qt 5.2.0
+
+Running with Windump version 3.9.5, based on tcpdump version 3.9.5, and WinPcap version 4.1.3 based on libpcap version 1.0
+
+THIS SOFTWARE IS PROVIDED `AS IS' AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.
